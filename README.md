@@ -4,9 +4,7 @@
 - 📍 France
 - 💻 Développeur / Administrateur système / Pentester
 
-## 🌍 Programming languages:
-
 ---
 
 ## Mon Site
-<a href="https://notigate.fr" target=_blank>notigate.fr</a>
+<a href="https://notigate.fr" target="_blank">notigate.fr</a>
