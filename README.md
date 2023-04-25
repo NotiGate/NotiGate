@@ -8,6 +8,3 @@
 
 ## Mon Site
 <a href="https://notigate.fr" target="_blank">notigate.fr</a>
-
-## Un hébergement ?
-<a href="https://vizion-cloud.com" target="_blank">Vizion-Cloud</a>
